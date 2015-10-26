@@ -6,6 +6,9 @@
   "repository": {
   "url": "git@github.com:bogdananas/Desarrollo-basado-en-pruebas.git"
   },
+  "dependencies": {
+  },
+  
   "main": "./main.js",
   "scripts": {
   "test": "mocha"

@@ -9,10 +9,7 @@ describe('Empresa', function(){//Describe un módulo llamado Empresa.
   	it('should be loaded', function(){ //Describe el nombre de la prueba unitaria
   		assert(empresa, "Cargado");
   	});
-   var esta_empresa=new empresa.Empresa(i,0,10);
-   it('crear nueva empresa', function(){
-     assert(esta_empresa,"creada la empresa");
-   });
+
 
 	});
 
