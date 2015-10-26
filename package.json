@@ -8,6 +8,6 @@
   },
   "main": "./main.js",
   "scripts": {
-  "test": "make test"
+  "test": "mocha"
   }
 }

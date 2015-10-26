@@ -4,5 +4,5 @@ node_js:
   - "0.11.12"
 before_install:
   - npm install -g mocha
-  - cd test; npm install .
-script: cd test; mocha
+  -  npm install .
+script:  mocha;
