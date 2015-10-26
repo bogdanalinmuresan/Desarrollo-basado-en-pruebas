@@ -3,6 +3,7 @@
   "name": "Ej2_Empresas",
   "description": "Clasificacion de empresas",
   "version": "0.1",
+  "private": true,
   "repository": {
   "url": "git@github.com:bogdananas/Desarrollo-basado-en-pruebas.git"
   },
