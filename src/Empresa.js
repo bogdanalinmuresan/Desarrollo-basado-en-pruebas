@@ -5,7 +5,7 @@ var Empresa = function(codigo,nombre,calificacion){
 	this.codigo;
 	this.nombre;
 	this.calificacion;
-	
+
 	this.printInfo=function(){
 		console.log('el codigo de la empresa es:', codigo);
 		console.log('el nombre de la empresa es:', nombre);
